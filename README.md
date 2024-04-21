@@ -21,39 +21,10 @@
 
 This project requires Python 3.7 or above. Install the necessary packages using:
 
-```bash
-pip install pandas numpy scikit-learn tensorflow matplotlib
-```
-
-## GAN Configuration
-
-- **image_size:** 64x64 pixels
-- **latent_size:** 128
-- **batch_size:** 128
-- **epochs:** 25
-- **learning_rate (lr):** 0.0002
-
-## Dataset Loading and Preprocessing
-
-```python
-# Code for loading and preprocessing the dataset
-```
-
-## Generator and Discriminator Models
-
-```python
-# Code for defining the Generator and Discriminator models
-```
-
-## Training the GAN
-
-```python
-# Code for training the GAN
-```
 
 ## Sample Generated Images
 
-![Generated Images](generated_images.png)
+![Generated Images](anime_result.png)
 
 ## Dataset Source
 
